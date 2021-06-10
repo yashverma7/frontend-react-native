@@ -66,6 +66,7 @@ In a React component, the props are the variables that we pass from a parent com
 
 Similarly, the state are also variables, with the difference that they are not passed as parameters, but rather that the component initializes and manages them internally.
 
+## Classes
 
 ## Styling Text
 ## Adding an image
