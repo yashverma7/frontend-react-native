@@ -10,7 +10,10 @@ import { Text, View } from 'react-native';
 
 //view component renders a container, containing several styles,
 
-//1.flex : input taken as a string makes the content flexible according to the other flex values, fro eg it is 2,a positive number it will take twice as size as component with flex value as 1. in other cases if flex is 0 it will be sized acc to its height and width being inflexible and in case of flex -1 it will be normally sized to its width and height or shrink to its minWidth and minHeight
+//1.flex : input taken as a string makes the content flexible according to the other flex values, for eg
+//it is 2, a positive number it will take twice as size as component with flex value as 1.
+//in other cases if flex is 0 it will be sized acc to its height and width being inflexible and
+//in case of flex -1 it will be normally sized to its width and height or shrink to its minWidth and minHeight
 
 //here flex=1 will give all the space to the parent component
 
