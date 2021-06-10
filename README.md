@@ -65,3 +65,8 @@ const Greeting = (props) => {
 In a React component, the props are the variables that we pass from a parent component to a child component. 
 
 Similarly, the state are also variables, with the difference that they are not passed as parameters, but rather that the component initializes and manages them internally.
+
+
+## Styling Text
+## Adding an image
+## Creating a button
